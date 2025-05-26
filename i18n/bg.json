@@ -290,7 +290,6 @@
     "transcoding_hardware_acceleration_description": "Експериментално; много по-бързо, но с по-ниско качество при същия битрейт",
     "transcoding_hardware_decoding": "Хардуерно декодиране",
     "transcoding_hardware_decoding_setting_description": "Прилага се само за NVENC, QSV и RKMPP. Активира ускорение от край до край, вместо само да ускорява кодирането. Може да не работи с всички видеоклипове.",
-    "transcoding_hevc_codec": "HEVC кодек",
     "transcoding_max_b_frames": "Максимални B-фрейма",
     "transcoding_max_b_frames_description": "По-високите стойности подобряват ефективността на компресията, но забавят разкодирането. Може да не е съвместим с хардуерното ускорение на по-стари устройства. 0 деактивира B-фрейма, докато -1 задава тази стойност автоматично.",
     "transcoding_max_bitrate": "Максимален битрейт",
