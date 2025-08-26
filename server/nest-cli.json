@@ -7,7 +7,7 @@
     "webpack": false,
     "plugins": [
       {
-        "name": "@nestjs/swagger",
+        "name": "@nestjs/swagger/plugin",
         "options": {
           "classValidatorShim": true,
           "introspectComments": true
